@@ -1,4 +1,4 @@
-# face-recognition
+# Face Recognition to detect the human expression :
 
 😄 Face Expression Detection Web App
 This is a Streamlit-based web application that uses your webcam to detect human facial expressions in real-time using deep learning. It displays the detected expression (like happy, sad, angry, surprise, etc.) along with a timestamp and live camera feed.
